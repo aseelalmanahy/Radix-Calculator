@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Radix Calculator and Converter</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_converter">Converter</string>
+    <string name="title_database">Database</string>
+    <string-array name="operations_array">
+        <item>+</item>
+        <item>–</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
